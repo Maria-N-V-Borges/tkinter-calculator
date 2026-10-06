@@ -1,7 +1,6 @@
-from tkinter import *
-from tkinter import ttk
+import tkinter as tk
 
-janela = Tk()
+janela = tk.Tk()
 janela.title("Calculadora")
 
 janela.mainloop()
